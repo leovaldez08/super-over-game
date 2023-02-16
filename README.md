@@ -1,3 +1,3 @@
 # Super-Over-Game
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-hib4ee)
+This is a small cricket game made using simple JavaScript Concepts
